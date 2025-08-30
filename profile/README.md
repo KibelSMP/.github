@@ -1,6 +1,6 @@
 ## Bry 👋
 
-To jest oficjalne konto KibelSMP, czyli serwera Minecraft, który należy do takiego znanego albo innego YouTubera, Twitchera, Kicktera i innych -era, Avalkiza.
+To jest oficjalne konto KibelSMP, czyli serwera Minecraft, który należy do takiego znanego (albo nie) YouTubera, Twitchera, Kicktera i innych -era, Avalkiza.
 Tak naprawdę wyżej wspomniany influencer nawet nie jest członkiem tej githubowej organizacji, natomiast jest tutaj jego zarząd (i jakiś random, który jako jedyny wie co to ten GitHub).
 
 Wrzucamy tutaj różne rzeczy związane z serwerem.
